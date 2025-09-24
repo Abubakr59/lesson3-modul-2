@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+.ul {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.dadasi{
+  display: flex;
+  justify-content: space-around;
+}
+.h11{
+    text-align: center;
+    margin-top: 50px;
+}
+.left{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    color: white;
+ display:flex;
+ justify-content: center;
+ align-items: center;
+ margin-bottom: 7%;
+ font-size: 200%;
+}   
+.right{
+        height: 300px;
+    width: 300px;
+    background-color: red;
+    color: white;
+     display:flex;
+ justify-content: center;
+ align-items: center;
+ margin-bottom: 7%;
+  font-size: 200%;
+}
